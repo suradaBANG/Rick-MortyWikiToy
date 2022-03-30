@@ -6,7 +6,7 @@ import Filters from "./components/Filters/Filters";
 import Navbar from "./components/Navbar/Navbar";
 import Pagination from "./components/Pagination/Pagination";
 import Search from "./components/Search/Search";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Episodes from "./Pages.js/Episodes";
 import Location from "./Pages.js/Location";
 import DetailPage from "./components/Cards/DetailPage";
