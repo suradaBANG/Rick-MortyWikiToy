@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rick-MortyWikiToy/static/css/main.cffc84ff.css",
+    "main.js": "/Rick-MortyWikiToy/static/js/main.0848ab66.js",
+    "static/js/787.815436e7.chunk.js": "/Rick-MortyWikiToy/static/js/787.815436e7.chunk.js",
+    "index.html": "/Rick-MortyWikiToy/index.html",
+    "main.cffc84ff.css.map": "/Rick-MortyWikiToy/static/css/main.cffc84ff.css.map",
+    "main.0848ab66.js.map": "/Rick-MortyWikiToy/static/js/main.0848ab66.js.map",
+    "787.815436e7.chunk.js.map": "/Rick-MortyWikiToy/static/js/787.815436e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cffc84ff.css",
+    "static/js/main.0848ab66.js"
+  ]
+}
